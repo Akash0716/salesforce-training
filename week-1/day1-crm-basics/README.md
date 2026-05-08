@@ -8,6 +8,17 @@
 ->Companies use Salesforce Primarily to Centralize customer data into a single 360-degree view.  
 ->it unify entire Business(sales,service,marketing) on a single cloud based platform.  
 
+## Business Flow  
+Lead-->Contact-->Oppurtunity-->Customer  
+### Lead:
+This is the starting point. A person or business who has shown some interest in what your'e selling.They are "potential" but unverified.  
+### Contact:
+At this stage ,you reach out to the lead.your'e introducing yourself,asking questions,and determining if your product actually meet their needs.  
+### Oppurtunity:
+This is the "breakthrough" moment.the contact has confirmed they have a problem you can solve and the budget to pay for it.you are now actively negotiating or providing a proposal.
+### Customer:
+Success!The deal is closed,the contract is signed,and the individual has officially purchased your product or service.
+
 ### Account(Organisation):
   An Account is a business Entity or Organization you are doing business with.it is the central hub where all other data is Stored.  
   Ex:Microsoft  
