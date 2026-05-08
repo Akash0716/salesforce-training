@@ -33,3 +33,4 @@ An Oppurtunity is a potential sale or revenue event.it represents a deal you are
   Represents the chance of converting interested student in to a successfully admitted student.  
   
 
+  https://github.com/Akash0716/salesforce-training/blob/main/week-1/day1-crm-basics/Screenshot%202026-05-08%20111946.png?raw=true
