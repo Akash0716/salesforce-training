@@ -18,7 +18,7 @@ At this stage ,you reach out to the lead.your'e introducing yourself,asking ques
 This is the "breakthrough" moment.the contact has confirmed they have a problem you can solve and the budget to pay for it.you are now actively negotiating or providing a proposal.
 ### Customer:
 Success!The deal is closed,the contract is signed,and the individual has officially purchased your product or service.
-
+## Key concept
 ### Account(Organisation):
   An Account is a business Entity or Organization you are doing business with.it is the central hub where all other data is Stored.  
   Ex:Microsoft  
@@ -43,5 +43,5 @@ An Oppurtunity is a potential sale or revenue event.it represents a deal you are
 ### Oppurtunity:Admission Application/Enrollment  
   Represents the chance of converting interested student in to a successfully admitted student.  
   
-
+![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/day1-crm-basics/Screenshot%202026-05-08%20151109.png?raw=true)
 
