@@ -45,4 +45,5 @@ An Oppurtunity is a potential sale or revenue event.it represents a deal you are
   
 ![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/day1-crm-basics/Screenshot%202026-05-08%20151109.png?raw=true)
 ![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/day1-crm-basics/Screenshot%202026-05-08%20151401.png?raw=true)
+![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/day1-crm-basics/Screenshot%202026-05-08%20151421.png?raw=true)
 
