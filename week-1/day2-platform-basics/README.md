@@ -53,3 +53,4 @@ These objects store and organize all admission-related data.
 5. Staff members can update student details, admission status, and communication records through the Salesforce App.
 
    ![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/day2-platform-basics/Screenshot%202026-05-09%20154202.png?raw=true)
+   ![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/day2-platform-basics/Screenshot%202026-05-09%20160301.png?raw=true)
