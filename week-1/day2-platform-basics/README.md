@@ -51,3 +51,5 @@ These objects store and organize all admission-related data.
 3. After verification, the Lead is converted into a Contact linked with the College Account.
 4. An Opportunity is created to track the admission or enrollment process.
 5. Staff members can update student details, admission status, and communication records through the Salesforce App.
+
+   ![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/day2-platform-basics/Screenshot%202026-05-09%20154202.png?raw=true)
