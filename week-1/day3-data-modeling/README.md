@@ -226,4 +226,4 @@ Through this task, I learned:
 
 # Screenshots
 ![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/day3-data-modeling/Data%20Modeling.png?raw=true)  
-
+![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/day3-data-modeling/Formulas%20And%20Validation.png?raw=true)
