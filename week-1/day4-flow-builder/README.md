@@ -193,6 +193,6 @@ Through this task, I learned:
 
 # Screenshots
 ![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/day4-flow-builder/Data%20and%20Actions%20in%20flows.png?raw=true)
+![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/day4-flow-builder/Flow-Builder%20Basics.png?raw=true)
 
 
-90
