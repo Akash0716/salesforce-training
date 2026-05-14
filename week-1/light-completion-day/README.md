@@ -84,5 +84,5 @@ Through this sprint, I gained basic awareness about:
 ---
 
 # Screenshots
-
+![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/light-completion-day/AgentForce%20platform%20Events%20basics.png?raw=true)
 
