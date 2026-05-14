@@ -720,5 +720,5 @@ Through this task, I learned:
 ---
 
 # Screenshots
-
+![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/day6-triggers-soql/Apex%20Triggers.png?raw=true)
 
