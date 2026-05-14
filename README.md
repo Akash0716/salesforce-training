@@ -1,9 +1,9 @@
 # Salesforce Training Repository
 
-This repository contains my complete Salesforce Summer Program learning journey.  
-The training covers CRM concepts, Salesforce Platform basics, Data Modeling, Automation, Flow Builder, Apex programming, and Enterprise System Design using real-world examples.
+This repository contains my Salesforce Summer Program learning journey, organized week-wise and day-wise.  
+The training covers CRM concepts, Salesforce Platform fundamentals, Data Modeling, Automation, Flow Builder, Apex programming, SOQL, Apex Triggers, and Enterprise System Design using real-world examples.
 
-Throughout the program, a **College Management System** was used as the primary real-world project to understand how Salesforce concepts connect together in enterprise applications.
+Throughout the program, a **College Management System** was used as the primary real-world project to understand how Salesforce concepts integrate together in enterprise applications.
 
 ---
 
@@ -30,7 +30,15 @@ salesforce-training/
 │   │   ├── README.md
 │   │   └── screenshots
 │   │
-│   └── day5-apex-introduction
+│   ├── day5-apex-introduction
+│   │   ├── README.md
+│   │   └── screenshots
+│   │
+│   ├── day6-triggers-soql
+│   │   ├── README.md
+│   │   └── screenshots
+│   │
+│   └── light-completion-day
 │       ├── README.md
 │       └── screenshots
 │
@@ -114,6 +122,37 @@ Understood why enterprise systems require programming in addition to declarative
 
 ---
 
+## Day 6 - SOQL and Apex Triggers
+
+### Topics Covered
+- SOQL Basics
+- SOSL Basics
+- DML Operations
+- Apex Triggers
+- Event-Driven Systems
+- Before vs After Triggers
+- Flow vs Trigger
+
+### Key Learning
+Learned how Salesforce retrieves data using SOQL and how enterprise systems react automatically to data changes using Apex Triggers.
+
+---
+
+## Light Completion Sprint
+
+### Topics Covered
+- Search Solution Basics
+- Platform Events Basics
+- Salesforce CLI Basics
+- Event-driven architecture
+- Enterprise search systems
+- Developer tooling ecosystem
+
+### Key Learning
+Gained awareness about Salesforce ecosystem tools, event-driven systems, and developer workflow concepts.
+
+---
+
 # Real-World Project: College Management System
 
 A complete College Management System was designed throughout the training program to connect all Salesforce concepts practically.
@@ -141,6 +180,7 @@ Lead → Admission Process → Student Enrollment → Course Management → Fee 
 - Validation Rules
 - Formula Calculations
 - Apex Business Logic
+- Event-Driven Automation
 
 ---
 
@@ -177,6 +217,7 @@ Lead → Admission Process → Student Enrollment → Course Management → Fee 
 - Screen Flows
 - Record Triggered Flows
 - Automated Notifications
+- Event-Driven Automation
 
 ---
 
@@ -186,6 +227,15 @@ Lead → Admission Process → Student Enrollment → Course Management → Fee 
 - Advanced Calculations
 - External Integrations
 - Complex Validation
+- Apex Triggers
+
+---
+
+## Database Concepts
+- SOQL
+- SOSL
+- DML Operations
+- Querying Data
 
 ---
 
@@ -200,6 +250,8 @@ Lead → Admission Process → Student Enrollment → Course Management → Fee 
 | Formula Fields | Attendance %, Remaining Fee |
 | Flow Automation | Registration emails, Fee reminders |
 | Apex Logic | Scholarship processing, Payment integration |
+| Triggers | Attendance alerts, Seat updates |
+| Queries | Student and course data retrieval |
 
 ---
 
@@ -216,7 +268,10 @@ Through this Salesforce training program, I learned:
 - Flow Builder concepts
 - Declarative vs Programmatic development
 - Apex programming basics
-- Enterprise system design thinking
+- SOQL and database querying
+- Apex Trigger concepts
+- Event-driven system design
+- Enterprise system architecture
 - Real-world Salesforce implementation
 - GitHub repository organization
 
@@ -228,6 +283,8 @@ Through this Salesforce training program, I learned:
 - Trailhead
 - Flow Builder
 - Apex Programming
+- SOQL
+- Salesforce CLI
 - GitHub
 - Draw.io / Diagrams
 - CRM Concepts
@@ -236,11 +293,11 @@ Through this Salesforce training program, I learned:
 
 # Screenshots
 
-Screenshots from Trailhead modules, Salesforce Playground exercises, Flow Builder practice, and Apex learning activities are included inside the screenshots folder of each day.
+Screenshots from Trailhead modules, Salesforce Playground exercises, Flow Builder practice, Apex learning, Trigger practice, and additional activities are included inside the screenshots folder of each day.
 
 ---
 
 # Conclusion
 
-This repository represents my hands-on Salesforce learning journey from CRM basics to automation and Apex programming.  
-The project demonstrates how Salesforce combines CRM, Data Modeling, Automation, and Programming to build scalable enterprise applications efficiently.
+This repository represents my hands-on Salesforce learning journey from CRM basics to automation, Apex programming, database querying, and event-driven enterprise systems.  
+The project demonstrates how Salesforce combines CRM, Data Modeling, Automation, Programming, and Intelligent Workflows to build scalable enterprise applications efficiently.
