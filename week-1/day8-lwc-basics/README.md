@@ -264,3 +264,4 @@ Through this task, I learned:
 # Screenshots
 ![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/day8-lwc-basics/Lightning%20web%20components%20basics.png?raw=true)
 ![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/day8-lwc-basics/Lightning%20web%20components%20for%20aura%20developers.png?raw=true)
+![](https://github.com/Akash0716/salesforce-training/blob/main/week-1/day8-lwc-basics/Secure-server%20side%20Development.png?raw=true)
