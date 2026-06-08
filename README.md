@@ -1,303 +1,310 @@
-# Salesforce Training Repository
+# Salesforce Summer Program Repository
 
-This repository contains my Salesforce Summer Program learning journey, organized week-wise and day-wise.  
-The training covers CRM concepts, Salesforce Platform fundamentals, Data Modeling, Automation, Flow Builder, Apex programming, SOQL, Apex Triggers, and Enterprise System Design using real-world examples.
+## Overview
 
-Throughout the program, a **College Management System** was used as the primary real-world project to understand how Salesforce concepts integrate together in enterprise applications.
+This repository documents my complete learning journey through the Salesforce Summer Program. Throughout this program, I explored Salesforce CRM concepts, platform development, automation, Apex programming, Lightning Web Components (LWC), DevOps practices, enterprise architecture, AI-powered solutions, and real-world application design.
+
+The program progressed from understanding basic CRM concepts to designing and refining a complete enterprise-grade College Management System using Salesforce technologies and software engineering principles.
 
 ---
 
 # Repository Structure
 
 ```text
-salesforce-training/
+salesforce-summer-program/
 │
 ├── week-1
-│   │
 │   ├── day1-crm-basics
-│   │   ├── README.md
-│   │   └── screenshots
-│   │
 │   ├── day2-platform-basics
-│   │   ├── README.md
-│   │   └── screenshots
-│   │
 │   ├── day3-data-modeling
-│   │   ├── README.md
-│   │   └── screenshots
-│   │
 │   ├── day4-flow-builder
-│   │   ├── README.md
-│   │   └── screenshots
-│   │
 │   ├── day5-apex-introduction
-│   │   ├── README.md
-│   │   └── screenshots
-│   │
 │   ├── day6-triggers-soql
-│   │   ├── README.md
-│   │   └── screenshots
-│   │
-│   └── light-completion-day
-│       ├── README.md
-│       └── screenshots
+│   ├── day7-testing-dx
+│   ├── light-completion-day
+│   └── README.md
+│
+├── week-2
+│   ├── day8-lwc-basics
+│   ├── day9-lwc-communication
+│   ├── day10-mini-project
+│   ├── day11-testing-async
+│   ├── day12-dx-workflow
+│   ├── day13-devops-cicd
+│   ├── day14-flow-governance
+│   └── README.md
+│
+├── week-3
+│   ├── day15-data-management
+│   ├── day16-debugging-best-practices
+│   ├── day17-agentforce-ai
+│   ├── final-project-phase1
+│   ├── final-project-phase2
+│   └── README.md
 │
 └── README.md
 ```
 
 ---
 
-# Training Overview
+# Week 1 - Salesforce Foundations
 
 ## Day 1 - CRM Basics
 
-### Topics Covered
-- Introduction to Salesforce
-- What is CRM?
-- Business workflow understanding
-- Account, Contact, Lead, Opportunity
-- Real-world CRM mapping
+* Introduction to Salesforce
+* CRM Concepts
+* Account, Contact, Lead, Opportunity
+* Business Workflow Mapping
 
-### Key Learning
-Learned how Salesforce CRM manages customer relationships and business workflows using standard objects.
+## Day 2 - Platform Basics
 
----
-
-## Day 2 - Salesforce Platform Basics
-
-### Topics Covered
-- Salesforce Platform architecture
-- Apps, Objects, and Tabs
-- Configuration vs Coding
-- System Design Thinking
-- User interaction flow
-
-### Key Learning
-Understood how Salesforce Platform organizes applications and business data using Apps and Objects.
-
----
+* Apps, Objects and Tabs
+* Configuration vs Coding
+* System Design Thinking
 
 ## Day 3 - Data Modeling
 
-### Topics Covered
-- Objects, Fields, and Records
-- Standard vs Custom Objects
-- Relationships in Salesforce
-- Formula Fields
-- Validation Rules
-- Structured enterprise data
+* Standard Objects
+* Custom Objects
+* Relationships
+* Formula Fields
+* Validation Rules
 
-### Key Learning
-Learned how Salesforce stores and manages structured enterprise data efficiently using relationships and business logic.
+## Day 4 - Flow Builder
 
----
-
-## Day 4 - Flow Builder and Automation
-
-### Topics Covered
-- Flow Builder
-- Screen Flows
-- Record Triggered Flows
-- Business Process Automation
-- Manual vs Automated workflows
-- No-code automation
-
-### Key Learning
-Learned how Salesforce automates repetitive business processes using no-code Flow Builder tools.
-
----
+* Screen Flows
+* Record Triggered Flows
+* Business Automation
 
 ## Day 5 - Apex Introduction
 
-### Topics Covered
-- What is Apex?
-- Declarative vs Programmatic Development
-- Flow vs Apex
-- Business Logic in Salesforce
-- Apex Use Cases
-- Pseudocode and Logic Building
+* Apex Fundamentals
+* Declarative vs Programmatic Development
+* Business Logic Design
 
-### Key Learning
-Understood why enterprise systems require programming in addition to declarative automation and how Apex enables advanced customization.
+## Day 6 - SOQL and Triggers
 
----
+* SOQL
+* SOSL
+* DML Operations
+* Apex Triggers
 
-## Day 6 - SOQL and Apex Triggers
+## Day 7 - Testing and DX
 
-### Topics Covered
-- SOQL Basics
-- SOSL Basics
-- DML Operations
-- Apex Triggers
-- Event-Driven Systems
-- Before vs After Triggers
-- Flow vs Trigger
-
-### Key Learning
-Learned how Salesforce retrieves data using SOQL and how enterprise systems react automatically to data changes using Apex Triggers.
-
----
+* Unit Testing
+* Apex Testing
+* Salesforce DX
+* Reliability Engineering
 
 ## Light Completion Sprint
 
-### Topics Covered
-- Search Solution Basics
-- Platform Events Basics
-- Salesforce CLI Basics
-- Event-driven architecture
-- Enterprise search systems
-- Developer tooling ecosystem
-
-### Key Learning
-Gained awareness about Salesforce ecosystem tools, event-driven systems, and developer workflow concepts.
+* Search Solutions
+* Platform Events
+* Salesforce CLI
+* Event-Driven Systems
 
 ---
 
-# Real-World Project: College Management System
+# Week 2 - Development and Enterprise Workflow
 
-A complete College Management System was designed throughout the training program to connect all Salesforce concepts practically.
+## Day 8 - Lightning Web Components
 
----
+* LWC Fundamentals
+* Component Architecture
+* UI Development
 
-# CRM Workflow
+## Day 9 - Component Communication
 
-```text
-Lead → Admission Process → Student Enrollment → Course Management → Fee Management → Academic Monitoring
-```
+* Parent-Child Communication
+* Events
+* Data Flow
+* Modular Design
 
----
+## Day 10 - Mini Project Integration
 
-# Main Features of the System
+* CRM Integration
+* Objects and Relationships
+* Workflow Design
 
-- Student Admission Management
-- Course Management
-- Faculty Management
-- Department Management
-- Fee Tracking
-- Attendance Monitoring
-- Automation Workflows
-- Notifications and Alerts
-- Validation Rules
-- Formula Calculations
-- Apex Business Logic
-- Event-Driven Automation
+## Day 11 - Testing and Async Processing
 
----
+* Asynchronous Apex
+* Scalability
+* Enterprise Reliability
 
-# Salesforce Concepts Implemented
+## Day 12 - Salesforce DX Workflow
 
-## CRM Concepts
-- Account
-- Contact
-- Lead
-- Opportunity
+* Source-Driven Development
+* Salesforce CLI
+* GitHub Integration
 
----
+## Day 13 - DevOps and CI/CD
 
-## Platform Concepts
-- Apps
-- Objects
-- Tabs
-- Records
-- Fields
+* DevOps Fundamentals
+* CI/CD Concepts
+* Release Management
+
+## Day 14 - Flow Governance
+
+* Decision Elements
+* Approval Processes
+* Governance and Compliance
 
 ---
 
-## Data Modeling Concepts
-- Standard Objects
-- Custom Objects
-- Lookup Relationships
-- Formula Fields
-- Validation Rules
+# Week 3 - Enterprise Engineering and AI
+
+## Day 15 - Data Management
+
+* Data Loader
+* Data Migration
+* Data Quality
+* Data Governance
+
+## Day 16 - Debugging and Best Practices
+
+* Debug Logs
+* Developer Console
+* Apex Replay Debugger
+* Performance Optimization
+* Maintainable Architecture
+
+## Day 17 - Agentforce and Enterprise AI
+
+* Agentforce
+* AI Agents
+* AI + Flow Integration
+* AI + Apex Integration
+* Responsible AI
+
+## Final Project Phase 1
+
+* Enterprise Architecture Design
+* End-to-End Workflow Integration
+* LWC + Apex + Flow Integration
+
+## Final Project Phase 2
+
+* Architecture Refinement
+* Reporting and Analytics
+* Failure Recovery Planning
+* Scalability Design
+* Solution Architecture Thinking
 
 ---
 
-## Automation Concepts
-- Flow Builder
-- Screen Flows
-- Record Triggered Flows
-- Automated Notifications
-- Event-Driven Automation
+# Final Project
+
+## College Management System
+
+A Salesforce-based enterprise application designed to manage:
+
+* Student Admissions
+* Course Management
+* Faculty Operations
+* Attendance Monitoring
+* Fee Management
+* Scholarship Processing
+* Approval Workflows
+* Notifications
+* Reporting and Analytics
 
 ---
 
-## Apex Programming Concepts
-- Business Logic
-- Conditional Processing
-- Advanced Calculations
-- External Integrations
-- Complex Validation
-- Apex Triggers
+# Technologies and Concepts Used
+
+### Salesforce Platform
+
+* CRM
+* Standard Objects
+* Custom Objects
+* Relationships
+* Validation Rules
+* Formula Fields
+
+### Automation
+
+* Flow Builder
+* Screen Flows
+* Record Triggered Flows
+* Approval Processes
+
+### Development
+
+* Apex
+* SOQL
+* SOSL
+* Apex Triggers
+* Asynchronous Processing
+
+### Frontend
+
+* Lightning Web Components (LWC)
+* Component Communication
+* Reusable UI Components
+
+### Enterprise Engineering
+
+* Salesforce DX
+* GitHub
+* DevOps
+* CI/CD
+* Debugging
+* Performance Optimization
+
+### AI and Innovation
+
+* Agentforce
+* AI Agents
+* Enterprise AI Workflows
+* Responsible AI Practices
 
 ---
 
-## Database Concepts
-- SOQL
-- SOSL
-- DML Operations
-- Querying Data
+# Key Learning Outcomes
+
+Through this program, I learned:
+
+* CRM Fundamentals
+* Data Modeling
+* Business Process Automation
+* Salesforce Development
+* Enterprise Architecture
+* Workflow Design
+* Approval Systems
+* Testing Strategies
+* Scalability Thinking
+* Data Governance
+* Debugging Techniques
+* DevOps Practices
+* AI Integration Concepts
+* Solution Architecture Thinking
 
 ---
 
-# Integrated System Components
+# Enterprise Software Engineering Mindset
 
-| Component | Implementation |
-|-----------|---------------|
-| CRM | Student admission pipeline |
-| Objects | Student, Faculty, Course, Department |
-| Relationships | Student ↔ Course, Faculty ↔ Department |
-| Validation | Email validation, Phone validation |
-| Formula Fields | Attendance %, Remaining Fee |
-| Flow Automation | Registration emails, Fee reminders |
-| Apex Logic | Scholarship processing, Payment integration |
-| Triggers | Attendance alerts, Seat updates |
-| Queries | Student and course data retrieval |
+One of the biggest lessons from this program was understanding the difference between writing code and designing enterprise systems.
 
----
+Enterprise applications require:
 
-# Learning Outcomes
+* Scalability
+* Reliability
+* Security
+* Governance
+* Automation
+* Maintainability
+* Monitoring
+* User Experience
 
-Through this Salesforce training program, I learned:
-
-- CRM fundamentals
-- Salesforce Platform structure
-- Enterprise data modeling
-- Relationship management
-- Formula Fields and Validation Rules
-- Business workflow automation
-- Flow Builder concepts
-- Declarative vs Programmatic development
-- Apex programming basics
-- SOQL and database querying
-- Apex Trigger concepts
-- Event-driven system design
-- Enterprise system architecture
-- Real-world Salesforce implementation
-- GitHub repository organization
-
----
-
-# Tools and Technologies
-
-- Salesforce Platform
-- Trailhead
-- Flow Builder
-- Apex Programming
-- SOQL
-- Salesforce CLI
-- GitHub
-- Draw.io / Diagrams
-- CRM Concepts
-
----
-
-# Screenshots
-
-Screenshots from Trailhead modules, Salesforce Playground exercises, Flow Builder practice, Apex learning, Trigger practice, and additional activities are included inside the screenshots folder of each day.
+A successful enterprise system combines all these aspects into a single integrated solution.
 
 ---
 
 # Conclusion
 
-This repository represents my hands-on Salesforce learning journey from CRM basics to automation, Apex programming, database querying, and event-driven enterprise systems.  
-The project demonstrates how Salesforce combines CRM, Data Modeling, Automation, Programming, and Intelligent Workflows to build scalable enterprise applications efficiently.
+This repository represents my complete Salesforce Summer Program journey from CRM fundamentals to enterprise application architecture.
+
+The program helped me understand how modern enterprise applications are designed using Salesforce technologies, automation, development frameworks, governance principles, AI capabilities, and software engineering best practices.
+
+It also strengthened my understanding of enterprise system design, solution architecture, and real-world Salesforce development workflows.
